@@ -1,13 +1,13 @@
 <div align="center">
 <h1>Hello! I'm Renato Carvalho! 👋</h1>
 
-<a>
+<a href="https://www.linkedin.com/in/renato-c-b0798a205" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
-<a>
+<a href="https://www.instagram.com/renato.ac_?igsh=MTVnZGNrOG9ub2wydA%3D%3D&utm_source=qr" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
 </a>
-<a>
+<a href="https://www.behance.net/RenatoAC_Design" target="_blank">
 <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></img>
 </a>
 </div>
@@ -19,7 +19,7 @@ My name is Renato Alexandre de Carvalho, i'm a full-stack developer looking for 
 - 🎓 I'm currently studying System Analysis and Development at FATEC-SCS.
 - 🎮 I'm also a designer and a game-dev.
 
-<div style="display:flex; column-gap: 20px; justify-content: center">
+<div align="center"> 
 <a href="https://github.com/RenatoAC2004">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoAC2004&show_icons=true&theme=merko&include_all_commits=true" />
 </a>
@@ -29,20 +29,22 @@ My name is Renato Alexandre de Carvalho, i'm a full-stack developer looking for 
 </div>
 
 ## Technologies
-<div style="text-align: center">
+<div align="center">
 Those are all the techonologies i've already had at least some contact with.
 </div>
+<br></br>
 
-<h3 style="color: #9cb81f; text-align: center"><b>The Basics</b></h3>
-<div style="display: flex; justify-content: center; align-items:center; column-gap: 5px; row-gap: 5px; flex-wrap: wrap; border: solid 1px #9cb81f; border-radius: 10px; padding: 10px; background-color: #0a0f0b;">
+<h3 align="center"><b>The Basics</b></h3>
+<div align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
+  <br></br>
 
-<h3 style="color: #9cb81f; text-align: center"><b>Front-End</b></h3>
-<div style="display: flex; justify-content: center; align-items:center; column-gap: 5px; row-gap: 5px; flex-wrap: wrap; border: solid 1px #9cb81f; border-radius: 10px; padding: 10px; background-color: #0a0f0b;">
+<h3 align="center"><b>Front-End</b></h3>
+<div align="center">
 
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -50,9 +52,10 @@ Those are all the techonologies i've already had at least some contact with.
   <img align="center" alt="styledcomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
+<br></br>
 
-<h3 style="color: #9cb81f; text-align: center"><b>Back-End</b></h3>
-<div style="display: flex; justify-content: center; align-items:center; column-gap: 5px; row-gap: 5px; flex-wrap: wrap; border: solid 1px #9cb81f; border-radius: 10px; padding: 10px; background-color: #0a0f0b;">
+<h3 align="center"><b>Back-End</b></h3>
+<div align="center">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -66,7 +69,7 @@ Those are all the techonologies i've already had at least some contact with.
   ---
 ## What I'm Studying
 
-<div style="display: flex; justify-content: center; align-items:center; column-gap: 5px; row-gap: 5px; flex-wrap: wrap; border: solid 1px #9cb81f; border-radius: 10px; padding: 10px; background-color: #0a0f0b;">
+<div>
 
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -75,7 +78,10 @@ Those are all the techonologies i've already had at least some contact with.
 
 ## I'm currently working on
 
+<div align="center">
 <a href="https://github.com/RenatoAC2004/file-upload-cloud-project" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoAC2004&repo=file-upload-cloud-project&theme=merko"></a>
+<a href="https://github.com/MAJE-Tecnologias/Evoluti-React" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MAJE-Tecnologias&repo=Evoluti-React&theme=merko"></a>
+</div>
 
 ## Listening to right now... 🎧🎵
 
