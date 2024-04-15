@@ -21,7 +21,7 @@ My name is Renato Alexandre de Carvalho, i'm a full-stack developer looking for 
 
 <div align="center"> 
 <a href="https://github.com/RenatoAC2004">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoAC2004&show_icons=true&theme=merko&include_all_commits=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoAC2004&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/RenatoAC2004">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAC2004&layout=donut&theme=merko" />
