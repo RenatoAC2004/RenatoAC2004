@@ -85,4 +85,4 @@ Those are all the techonologies i've already had at least some contact with.
 
 ## Listening to right now... 🎧🎵
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pitycy2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pitycy2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
