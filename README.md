@@ -18,7 +18,7 @@
 ## About Me
 My name is Renato Alexandre de Carvalho, i'm a full-stack developer looking for new opportunities and entering the Web Development market. I really enjoy working with software development and i'm always looking for improving my knowledge. 
 
-- 📅 I'm 20 years old.
+- 📅 I'm 21 years old.
 - 🎓 I graduated in System Analysis and Development from FATEC-SCS.
 - 🎮 I'm also a designer and a game-dev.
 
